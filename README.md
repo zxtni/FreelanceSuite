@@ -31,7 +31,6 @@
 ## <img src="./readme-icons/sparkles.png" width="24" height="24" /> Features
 
 ### <img src="./readme-icons/dashboard.png" width="20" height="20" /> **Dashboard**
-### <img src="./readme-icons/dashboard.png" width="20" height="20" /> **Dashboard**
 - Real-time statistics and KPIs
 - Revenue tracking with Indian Rupee (₹) support
 - Active clients and projects overview
