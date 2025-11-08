@@ -20,7 +20,7 @@
 
 <div align="center">
 
-![FreelanceSuite Preview](./preview.gif)
+![FreelanceSuite Preview](preview.gif)
 
 *Experience the beautiful UI, smooth animations, and powerful features of FreelanceSuite*
 
